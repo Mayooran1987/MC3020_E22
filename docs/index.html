@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -57,7 +57,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -184,13 +185,13 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Welcome to Probability and Statistics!</strong></p>
 <div style="text-align: justify">
 
-<p>Engineering today operates in an increasingly data-rich environment. This course is designed to introduce you to statistical concepts and methods which will encourage you to operate confidently and effectively in this environment. The course provides an introduction to the presentation, analysis and interpretation of quantitative data in an engineering context. Topics include the use of <a href="https://www.r-project.org/">R program</a> to construct graphical displays and calculate summary statistics, probability, confidence intervals, hypothesis testing, regression, and time series analysis.</p>
-<p>Topics Statistics has two flavours: first, descriptive statistics, where we summarize observed data; and second, inferential statistics, where we make conclusions about the population the data are drawn from. Probability is the branch of mathematics that describes how samples randomly drawn from a population will behave, and provides the basis for connecting the data and the population from which it is drawn.</p>
-<p>Many statistical concepts take time to understand and master. You have probably already met some statistical methods and can calculate averages and draw scatterplots, but you will still need to learn how to interpret them to give information about practical problems and this is best achieved by working through and thinking about a variety of examples. There is nothing special about statistical reasoning. Statistical tools supplement and refine our natural intuition and commonsense. When you are studying, try asking yourself why each conclusion makes sense. You may have to learn some techniques and definitions by rote when you first meet them, but it is useful to look for a pattern. Look back over each completed example to see how the statistical technique has refined your understanding of the problem. This is particularly important if you have a fear of numbers and symbols. Try looking at the problem, the data and the conclusion first, then try to understand how the technique has led from one to the other.</p>
+<p>Engineering today operates in an increasingly data-rich environment. This course is designed to introduce you to statistical concepts and methods that will encourage you to operate confidently and effectively in this environment. The course provides an introduction to the presentation, analysis and interpretation of quantitative data in an engineering context. Topics include the use of the <a href="https://www.r-project.org/">R program</a> to construct graphical displays and calculate summary statistics, probability, confidence intervals, hypothesis testing, regression, and time series analysis.</p>
+<p>Topics Statistics has two flavours: first, descriptive statistics, where we summarize observed data; and second, inferential statistics, where we make conclusions about the population the data are drawn from. Probability is the branch of mathematics that describes how samples randomly drawn from a population will behave and provides the basis for connecting the data and the population from which it is drawn.</p>
+<p>Many statistical concepts take time to understand and master. You have probably already met some statistical methods and can calculate averages and draw scatter plots, but you will still need to learn how to interpret them to give information about practical problems and this is best achieved by working through and thinking about a variety of examples. There is nothing special about statistical reasoning. Statistical tools supplement and refine our natural intuition and common sense. When you are studying, try asking yourself why each conclusion makes sense. You may have to learn some techniques and definitions by rote when you first meet them, but it is useful to look for a pattern. Look back over each completed example to see how the statistical technique has refined your understanding of the problem. This is particularly important if you have a fear of numbers and symbols. Try looking at the problem, the data and the conclusion first, then try to understand how the technique has led from one to the other.</p>
 <p>The approach to understanding statistics is no different from any other subject. Plan ahead, work steadily and you can achieve maximum success for your effort. Please contact <a href="mailto:mayooran@eng.jfn.ac.lk" style="font-size: 11pt;">me</a> if you have any questions about the teaching and learning format for this course.</p>
 <p>You don’t need a strong mathematical background to succeed in this course. We teach you to use R to summarize, display and analyse data. We explore data collection techniques including sampling methods and experimental design. We introduce you to probability and statistical inference methods (confidence intervals, hypothesis testing and regression) with an emphasis on communicating results in context. We finish the course with time series analysis and quality management.</p>
 <p>We hope you enjoy taking this course as much as we have enjoyed putting it together. We are keen to get feedback from you on things you like as well as anything you don’t like.</p>
-<p>We wish you well in your studying.</p>
+<p>We wish you well in your studies.</p>
 <section id="syllabus" class="level1">
 <h1>Syllabus</h1>
 <section id="course-overview" class="level2">
@@ -226,15 +227,19 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>In course assessments (50%)
 <ul>
-<li>Assignment (20%)</li>
-<li>Mid-semester assessment (30%)</li>
+<li>Assignment (30%)</li>
+<li>Mid-semester assessment (20%)</li>
 </ul></li>
 <li>End of course examination (50%)</li>
 </ul>
 </section>
 <section id="attendance-policy" class="level2">
 <h2 class="anchored" data-anchor-id="attendance-policy">Attendance Policy:</h2>
-<p>Absence from lectures and/or tutorials shall not exceed <span class="math inline">\(20\%\)</span>. Students exceeding the <span class="math inline">\(20\%\)</span> limit without an accepted medical or emergency excuse are not permitted to take part in the final examination.</p>
+<p>Your attendance to each class (listening) and your genuine effort on the homework assignments and exams (doing) are two of the most important factors affecting your success in this class. This course requires both listening and doing. You will be held accountable for what takes place in class, whether you are present or not. You are responsible for all material covered in classes you miss. Absence from lectures and/or tutorials shall not exceed <span class="math inline">\(20\%\)</span>. Students exceeding the <span class="math inline">\(20\%\)</span> limit without an accepted medical or emergency excuse are not permitted to take part in the final examination. If your grade falls below <span class="math inline">\(80\%\)</span> at any point prior to the exam, you must submit a clarification letter through your academic advisor.</p>
+<p><strong>In course Examinations Make-up Policy</strong></p>
+<p>No make-up test will be given except emergency with proof and no more than one exception. There are all sorts of reasons that you might have for missing a test. Some reasons may be considered legitimate excuses and some may not. Be careful! What may seem like a legitimate excuse to you may not be considered one by us. What constitutes a legitimate excuse will be at the discretion of the lecturer, but includes such things as illness requiring a visit to the doctor; university-related travel; etc. You must provide proof for all legitimate excuses a note on official letterhead, signed by an appropriate authority: doctor, professor, etc. Even missing a test to attend a family-related event” must be proved by some form of documentation: a funeral notice, etc. Missing tests because you are late; your bike broke down; you missed the bus, or it ran late; the power went out and your alarm did not wake you (have a battery-powered back-up!); you had to study for another test; you were ill but did not see a doctor; etc., are not considered legitimate excuses. If you know in advance that you are going to miss a test, but you are not sure if the reason will be considered a legitimate excuse, contact the instructor.</p>
+<p><strong>Academic and Classroom Misconduct</strong></p>
+<p>Students are expected to conduct themselves appropriately at all times. Academic and classroom misconduct will not be tolerated. Be considerate of your fellow classmates. Turn off/silent mode of your cell phone before entering class unless there are special circumstances requiring your phone to be on. If you must leave class early, sit near the door and leave quietly.</p>
 <p><img src="images/1617973717-2.gif" class="img-fluid" width="537"></p>
 
 
