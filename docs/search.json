@@ -1,59 +1,87 @@
 [
   {
-    "objectID": "tutorials.html",
-    "href": "tutorials.html",
+    "objectID": "Untitled/Untitled.html",
+    "href": "Untitled/Untitled.html",
+    "title": "Bare Demo of IEEEtran.cls for IEEE Conferences",
+    "section": "",
+    "text": "This demo file is intended to serve as a ``starter file’’ for IEEE conference papers produced under  using IEEEtran.cls version 1.8b and later.  I wish you the best of success.\n\n\nSubsection text here.\n\n\nSubsubsection text here."
+  },
+  {
+    "objectID": "Untitled/Untitled.html#subsection-heading-here",
+    "href": "Untitled/Untitled.html#subsection-heading-here",
+    "title": "Bare Demo of IEEEtran.cls for IEEE Conferences",
+    "section": "",
+    "text": "Subsection text here.\n\n\nSubsubsection text here."
+  },
+  {
+    "objectID": "Past_exam.html",
+    "href": "Past_exam.html",
     "title": "MC3020",
     "section": "",
-    "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑\nTutorial 05: To download this tutorial in pdf format, please click here.📑\nTutorial 06: To download this tutorial in pdf format, please click here.📑"
+    "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4\n\n\nMid Examination\nMid Exam"
   },
   {
-    "objectID": "tutorials.html#tutorials",
-    "href": "tutorials.html#tutorials",
+    "objectID": "Past_exam.html#assignment-and-mid-exam-paperswith-model-answers",
+    "href": "Past_exam.html#assignment-and-mid-exam-paperswith-model-answers",
     "title": "MC3020",
     "section": "",
-    "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑\nTutorial 05: To download this tutorial in pdf format, please click here.📑\nTutorial 06: To download this tutorial in pdf format, please click here.📑"
+    "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4\n\n\nMid Examination\nMid Exam"
   },
   {
-    "objectID": "tutorials.html#model-answers",
-    "href": "tutorials.html#model-answers",
+    "objectID": "Past_exam.html#end-examination-papers",
+    "href": "Past_exam.html#end-examination-papers",
     "title": "MC3020",
-    "section": "Model Answers",
-    "text": "Model Answers\n\nTutorial 01_Model Answers \nTutorial 02_Model Answers \nTutorial 03_Model Answers\nTutorial 04 Model Answers\nTutorial 05 Model Answers\nTutorial 06 Model Answers"
+    "section": "End examination papers",
+    "text": "End examination papers\n\n\n\nYear\nPast exam paper\n\n\n\n\n2023\nMC3020_2023\n\n\n2022\nMC3020_2022\n\n\n2020\nMC3020_2021\n\n\n2019\nMC3020_2019"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching team",
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "MC3020",
     "section": "",
-    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr T. Mayooran (📧)\n\n\n\n\n\nMiss M. Rogetha (📧)\nMr xxxx (📧)"
+    "text": "Assignment 01: 12- 03- 2024 at 9.00 am (Exam covers Lect_1 and Lect_2 slides) \nAssignment 02: 01 - 04 - 2024 at 8.00 am (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 01- 05- 2024 at 09.00 am (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 27 -05- 2024 at 08.00 am (Exam covers Lect_6)\nMid-semester examination: xx -04 -2024 (Exam covers Lect_1, Lect_2 and Lect_3 slides) (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)\n\n* The above schedule is subject to change in the event of extenuating circumstances."
   },
   {
-    "objectID": "teaching.html#lecturers",
-    "href": "teaching.html#lecturers",
-    "title": "Teaching team",
+    "objectID": "news.html#important-dates-tentative",
+    "href": "news.html#important-dates-tentative",
+    "title": "MC3020",
     "section": "",
-    "text": "Dr T. Mayooran (📧)"
+    "text": "Assignment 01: 12- 03- 2024 at 9.00 am (Exam covers Lect_1 and Lect_2 slides) \nAssignment 02: 01 - 04 - 2024 at 8.00 am (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 01- 05- 2024 at 09.00 am (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 27 -05- 2024 at 08.00 am (Exam covers Lect_6)\nMid-semester examination: xx -04 -2024 (Exam covers Lect_1, Lect_2 and Lect_3 slides) (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)\n\n* The above schedule is subject to change in the event of extenuating circumstances."
   },
   {
-    "objectID": "teaching.html#tutors",
-    "href": "teaching.html#tutors",
-    "title": "Teaching team",
+    "objectID": "exercise.html",
+    "href": "exercise.html",
+    "title": "About",
     "section": "",
-    "text": "Miss M. Rogetha (📧)\nMr xxxx (📧)"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Lecture notes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n12-02-24\n13-02-24\n14-02-24\nWeek 1\nBasic concept of probability;\nLect 1\nDr T. Mayooran\n\n\n19-02-24\n20-02-24\n21-02-24\nWeek 2\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n26-02-24\n27-02-24\n28-02-24\nWeek 3\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n04-03-24\n05-03-24\n06-03-24\nWeek 4\nTutorial / Continuous probability distributions;\nTutorials 1 and 2\nLect 3\nStatistical Table\nTutors / Dr T. Mayooran\n\n\n11-03-24\n12-03-24\n13-03-24\nWeek 5\nAssignment 1/ Continuous probability distributions\n\nDr T. Mayooran\n\n\n18-03-24\n19-03-24\n20-03-24\nWeek 6\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n25-03-24\n26-03-24\n27-03-24\nWeek 7\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n01-04-24\n02-04-24\n03-04-24\nWeek 8\nTutorial / Assignment 2\nTutorial 3\nTutors / Dr T. Mayooran\n\n\n08-04-24\n09-04-24\n10-04-24\nWeek 9\nMid semester\n\nDr T. Mayooran\n\n\n15-04-24\n16-04-24\n17-04-24\nWeek 10\nTutorial\nTutorial 4\nTutors / Dr T. Mayooran\n\n\n22-04-24\n23-04-24\n24-04-24\nWeek 11\nStatistical Inferences 1\n\nDr T. Mayooran\n\n\n29-04-24\n30-04-24\n01-05-24\nWeek12\nStatistical Inferences 2\nLect 5\nLect_5_Model Answers\nDr T. Mayooran\n\n\n06-05-24\n07-05-24\n08-05-24\nWeek 13\nTutorial/ Assignment 3\nTutorial 5\nTutors\n\n\n13-05-24\n14-05-24\n15-05-24\nWeek 14\nLinear Regression\nLect_6\nIntroduction to R & Rstudio_1\nIntroduction to R & Rstudio_2\nDr T. Mayooran\n\n\n20-05-24\n21-05-24\n22-05-24\nWeek 15\nLinear Regression\n\nDr T. Mayooran\n\n\n27-05-24\n28-05-24\n29-05-24\nWeek 16\nTutorial /Assignment 4\nTutorial 6\nTutors / Dr T. Mayooran\n\n\n\n* The above schedule is subject to change in the event of extenuating circumstances."
+    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder. You can access this folder via your university login credentials if you want to download those."
   },
   {
-    "objectID": "notes.html#course-schedule-tentative",
-    "href": "notes.html#course-schedule-tentative",
-    "title": "Lecture notes",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "MC3020",
     "section": "",
-    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n12-02-24\n13-02-24\n14-02-24\nWeek 1\nBasic concept of probability;\nLect 1\nDr T. Mayooran\n\n\n19-02-24\n20-02-24\n21-02-24\nWeek 2\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n26-02-24\n27-02-24\n28-02-24\nWeek 3\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n04-03-24\n05-03-24\n06-03-24\nWeek 4\nTutorial / Continuous probability distributions;\nTutorials 1 and 2\nLect 3\nStatistical Table\nTutors / Dr T. Mayooran\n\n\n11-03-24\n12-03-24\n13-03-24\nWeek 5\nAssignment 1/ Continuous probability distributions\n\nDr T. Mayooran\n\n\n18-03-24\n19-03-24\n20-03-24\nWeek 6\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n25-03-24\n26-03-24\n27-03-24\nWeek 7\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n01-04-24\n02-04-24\n03-04-24\nWeek 8\nTutorial / Assignment 2\nTutorial 3\nTutors / Dr T. Mayooran\n\n\n08-04-24\n09-04-24\n10-04-24\nWeek 9\nMid semester\n\nDr T. Mayooran\n\n\n15-04-24\n16-04-24\n17-04-24\nWeek 10\nTutorial\nTutorial 4\nTutors / Dr T. Mayooran\n\n\n22-04-24\n23-04-24\n24-04-24\nWeek 11\nStatistical Inferences 1\n\nDr T. Mayooran\n\n\n29-04-24\n30-04-24\n01-05-24\nWeek12\nStatistical Inferences 2\nLect 5\nLect_5_Model Answers\nDr T. Mayooran\n\n\n06-05-24\n07-05-24\n08-05-24\nWeek 13\nTutorial/ Assignment 3\nTutorial 5\nTutors\n\n\n13-05-24\n14-05-24\n15-05-24\nWeek 14\nLinear Regression\nLect_6\nIntroduction to R & Rstudio_1\nIntroduction to R & Rstudio_2\nDr T. Mayooran\n\n\n20-05-24\n21-05-24\n22-05-24\nWeek 15\nLinear Regression\n\nDr T. Mayooran\n\n\n27-05-24\n28-05-24\n29-05-24\nWeek 16\nTutorial /Assignment 4\nTutorial 6\nTutors / Dr T. Mayooran\n\n\n\n* The above schedule is subject to change in the event of extenuating circumstances."
+    "text": "You can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:"
+  },
+  {
+    "objectID": "contact.html#lecturers",
+    "href": "contact.html#lecturers",
+    "title": "MC3020",
+    "section": "Lecturers",
+    "text": "Lecturers\n\nMr T. Mayooran (📧)"
+  },
+  {
+    "objectID": "contact.html#tutors",
+    "href": "contact.html#tutors",
+    "title": "MC3020",
+    "section": "Tutors",
+    "text": "Tutors\n\nMiss M. Rogetha (📧)\nMr (📧)\n\nIf you require any discussion concerning this course, you can connect via Zoom. Below are the Zoom details for your reference:\nTopic: MC3020\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/6138540796?pwd=VEpJcjk2c0R3b05vaEZIdm1CQ0dZQT09\nMeeting ID: 613 854 0796\nPasscode: Mc3020_23\nTo schedule a discussion regarding this course, please note that the available time slots are Monday to Friday between 8:00 am and 4:00 pm, subject to any prior appointments."
   },
   {
     "objectID": "index.html",
@@ -105,73 +133,59 @@
     "text": "Attendance Policy:\nYour attendance to each class (listening) and your genuine effort on the homework assignments and exams (doing) are two of the most important factors affecting your success in this class. This course requires both listening and doing. You will be held accountable for what takes place in class, whether you are present or not. You are responsible for all material covered in classes you miss. Absence from lectures and/or tutorials shall not exceed \\(20\\%\\). Students exceeding the \\(20\\%\\) limit without an accepted medical or emergency excuse are not permitted to take part in the final examination. If your grade falls below \\(80\\%\\) at any point prior to the exam, you must submit a clarification letter through your academic advisor.\nIn course Examinations Make-up Policy\nNo make-up test will be given except emergency with proof and no more than one exception. There are all sorts of reasons that you might have for missing a test. Some reasons may be considered legitimate excuses and some may not. Be careful! What may seem like a legitimate excuse to you may not be considered one by us. What constitutes a legitimate excuse will be at the discretion of the lecturer, but includes such things as illness requiring a visit to the doctor; university-related travel; etc. You must provide proof for all legitimate excuses a note on official letterhead, signed by an appropriate authority: doctor, professor, etc. Even missing a test to attend a family-related event” must be proved by some form of documentation: a funeral notice, etc. Missing tests because you are late; your bike broke down; you missed the bus, or it ran late; the power went out and your alarm did not wake you (have a battery-powered back-up!); you had to study for another test; you were ill but did not see a doctor; etc., are not considered legitimate excuses. If you know in advance that you are going to miss a test, but you are not sure if the reason will be considered a legitimate excuse, contact the instructor.\nAcademic and Classroom Misconduct\nStudents are expected to conduct themselves appropriately at all times. Academic and classroom misconduct will not be tolerated. Be considerate of your fellow classmates. Turn off/silent mode of your cell phone before entering class unless there are special circumstances requiring your phone to be on. If you must leave class early, sit near the door and leave quietly."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n12-02-24\n13-02-24\n14-02-24\nWeek 1\nBasic concept of probability;\nLect 1\nDr T. Mayooran\n\n\n19-02-24\n20-02-24\n21-02-24\nWeek 2\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n26-02-24\n27-02-24\n28-02-24\nWeek 3\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n04-03-24\n05-03-24\n06-03-24\nWeek 4\nTutorial / Continuous probability distributions;\nTutorials 1 and 2\nLect 3\nStatistical Table\nTutors / Dr T. Mayooran\n\n\n11-03-24\n12-03-24\n13-03-24\nWeek 5\nAssignment 1/ Continuous probability distributions\n\nDr T. Mayooran\n\n\n18-03-24\n19-03-24\n20-03-24\nWeek 6\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n25-03-24\n26-03-24\n27-03-24\nWeek 7\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n01-04-24\n02-04-24\n03-04-24\nWeek 8\nTutorial / Assignment 2\nTutorial 3\nTutors / Dr T. Mayooran\n\n\n08-04-24\n09-04-24\n10-04-24\nWeek 9\nMid semester\n\nDr T. Mayooran\n\n\n15-04-24\n16-04-24\n17-04-24\nWeek 10\nTutorial\nTutorial 4\nTutors / Dr T. Mayooran\n\n\n22-04-24\n23-04-24\n24-04-24\nWeek 11\nStatistical Inferences 1\n\nDr T. Mayooran\n\n\n29-04-24\n30-04-24\n01-05-24\nWeek12\nStatistical Inferences 2\nLect 5\nLect_5_Model Answers\nDr T. Mayooran\n\n\n06-05-24\n07-05-24\n08-05-24\nWeek 13\nTutorial/ Assignment 3\nTutorial 5\nTutors\n\n\n13-05-24\n14-05-24\n15-05-24\nWeek 14\nLinear Regression\nLect_6\nIntroduction to R & Rstudio_1\nIntroduction to R & Rstudio_2\nDr T. Mayooran\n\n\n20-05-24\n21-05-24\n22-05-24\nWeek 15\nLinear Regression\n\nDr T. Mayooran\n\n\n27-05-24\n28-05-24\n29-05-24\nWeek 16\nTutorial /Assignment 4\nTutorial 6\nTutors / Dr T. Mayooran\n\n\n\n* The above schedule is subject to change in the event of extenuating circumstances."
+  },
+  {
+    "objectID": "notes.html#course-schedule-tentative",
+    "href": "notes.html#course-schedule-tentative",
+    "title": "Lecture notes",
+    "section": "",
+    "text": "Date\nWeek\nTopic\nNotes\nLecturer\n\n\n\n\n12-02-24\n13-02-24\n14-02-24\nWeek 1\nBasic concept of probability;\nLect 1\nDr T. Mayooran\n\n\n19-02-24\n20-02-24\n21-02-24\nWeek 2\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n26-02-24\n27-02-24\n28-02-24\nWeek 3\nDiscrete probability distributions;\nLect 2\nDr T. Mayooran\n\n\n04-03-24\n05-03-24\n06-03-24\nWeek 4\nTutorial / Continuous probability distributions;\nTutorials 1 and 2\nLect 3\nStatistical Table\nTutors / Dr T. Mayooran\n\n\n11-03-24\n12-03-24\n13-03-24\nWeek 5\nAssignment 1/ Continuous probability distributions\n\nDr T. Mayooran\n\n\n18-03-24\n19-03-24\n20-03-24\nWeek 6\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n25-03-24\n26-03-24\n27-03-24\nWeek 7\nStatistical Inferences 1\nLect 4\nDr T. Mayooran\n\n\n01-04-24\n02-04-24\n03-04-24\nWeek 8\nTutorial / Assignment 2\nTutorial 3\nTutors / Dr T. Mayooran\n\n\n08-04-24\n09-04-24\n10-04-24\nWeek 9\nMid semester\n\nDr T. Mayooran\n\n\n15-04-24\n16-04-24\n17-04-24\nWeek 10\nTutorial\nTutorial 4\nTutors / Dr T. Mayooran\n\n\n22-04-24\n23-04-24\n24-04-24\nWeek 11\nStatistical Inferences 1\n\nDr T. Mayooran\n\n\n29-04-24\n30-04-24\n01-05-24\nWeek12\nStatistical Inferences 2\nLect 5\nLect_5_Model Answers\nDr T. Mayooran\n\n\n06-05-24\n07-05-24\n08-05-24\nWeek 13\nTutorial/ Assignment 3\nTutorial 5\nTutors\n\n\n13-05-24\n14-05-24\n15-05-24\nWeek 14\nLinear Regression\nLect_6\nIntroduction to R & Rstudio_1\nIntroduction to R & Rstudio_2\nDr T. Mayooran\n\n\n20-05-24\n21-05-24\n22-05-24\nWeek 15\nLinear Regression\n\nDr T. Mayooran\n\n\n27-05-24\n28-05-24\n29-05-24\nWeek 16\nTutorial /Assignment 4\nTutorial 6\nTutors / Dr T. Mayooran\n\n\n\n* The above schedule is subject to change in the event of extenuating circumstances."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Teaching staff welcome communication from students. We aim to respond to emails within two working days. Our email addresses are below. Please follow the basics of Netiquette and the Student Code of Conduct.\nYou can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:\n\n\n\nDr T. Mayooran (📧)\n\n\n\n\n\nMiss M. Rogetha (📧)\nMr xxxx (📧)"
+  },
+  {
+    "objectID": "teaching.html#lecturers",
+    "href": "teaching.html#lecturers",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Dr T. Mayooran (📧)"
+  },
+  {
+    "objectID": "teaching.html#tutors",
+    "href": "teaching.html#tutors",
+    "title": "Teaching team",
+    "section": "",
+    "text": "Miss M. Rogetha (📧)\nMr xxxx (📧)"
+  },
+  {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
     "title": "MC3020",
     "section": "",
-    "text": "You can reach us via email, or you can reach us at our office location, which is on the first floor of the Admin building:"
+    "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑\nTutorial 05: To download this tutorial in pdf format, please click here.📑\nTutorial 06: To download this tutorial in pdf format, please click here.📑"
   },
   {
-    "objectID": "contact.html#lecturers",
-    "href": "contact.html#lecturers",
-    "title": "MC3020",
-    "section": "Lecturers",
-    "text": "Lecturers\n\nMr T. Mayooran (📧)"
-  },
-  {
-    "objectID": "contact.html#tutors",
-    "href": "contact.html#tutors",
-    "title": "MC3020",
-    "section": "Tutors",
-    "text": "Tutors\n\nMiss M. Rogetha (📧)\nMr (📧)\n\nIf you require any discussion concerning this course, you can connect via Zoom. Below are the Zoom details for your reference:\nTopic: MC3020\nJoin Zoom Meeting\nhttps://learn.zoom.us/j/6138540796?pwd=VEpJcjk2c0R3b05vaEZIdm1CQ0dZQT09\nMeeting ID: 613 854 0796\nPasscode: Mc3020_23\nTo schedule a discussion regarding this course, please note that the available time slots are Monday to Friday between 8:00 am and 4:00 pm, subject to any prior appointments."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "All course materials utilised for this course teaching are available in the Microsoft Teams folder. You can access this folder via your university login credentials if you want to download those."
-  },
-  {
-    "objectID": "exercise.html",
-    "href": "exercise.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "news.html",
-    "href": "news.html",
+    "objectID": "tutorials.html#tutorials",
+    "href": "tutorials.html#tutorials",
     "title": "MC3020",
     "section": "",
-    "text": "Assignment 01: 12- 03- 2024 at 9.00 am (Exam covers Lect_1 and Lect_2 slides) \nAssignment 02: 01 - 04 - 2024 at 8.00 am (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 01- 05- 2024 at 09.00 am (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 27 -05- 2024 at 08.00 am (Exam covers Lect_6)\nMid-semester examination: xx -04 -2024 (Exam covers Lect_1, Lect_2 and Lect_3 slides) (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)\n\n* The above schedule is subject to change in the event of extenuating circumstances."
+    "text": "Tutorial 01: To download this tutorial in pdf format, please click here.📑\nTutorial 02: To download this tutorial in pdf format, please click here.📑\nTutorial 03: To download this tutorial in pdf format, please click here.📑\nTutorial 04: To download this tutorial in pdf format, please click here.📑\nTutorial 05: To download this tutorial in pdf format, please click here.📑\nTutorial 06: To download this tutorial in pdf format, please click here.📑"
   },
   {
-    "objectID": "news.html#important-dates-tentative",
-    "href": "news.html#important-dates-tentative",
+    "objectID": "tutorials.html#model-answers",
+    "href": "tutorials.html#model-answers",
     "title": "MC3020",
-    "section": "",
-    "text": "Assignment 01: 12- 03- 2024 at 9.00 am (Exam covers Lect_1 and Lect_2 slides) \nAssignment 02: 01 - 04 - 2024 at 8.00 am (Exam covers Lect_3 and Lect_4 slides)\nAssignment 03: 01- 05- 2024 at 09.00 am (Exam covers Lect_4 and Lect_5 slides)\nAssignment 04: 27 -05- 2024 at 08.00 am (Exam covers Lect_6)\nMid-semester examination: xx -04 -2024 (Exam covers Lect_1, Lect_2 and Lect_3 slides) (to be scheduled by Dean’s office)\nEnd of course examination (to be scheduled)\n\n* The above schedule is subject to change in the event of extenuating circumstances."
-  },
-  {
-    "objectID": "Past_exam.html",
-    "href": "Past_exam.html",
-    "title": "MC3020",
-    "section": "",
-    "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4\n\n\nMid Examination\nMid Exam"
-  },
-  {
-    "objectID": "Past_exam.html#assignment-and-mid-exam-paperswith-model-answers",
-    "href": "Past_exam.html#assignment-and-mid-exam-paperswith-model-answers",
-    "title": "MC3020",
-    "section": "",
-    "text": "No\nModel answer\n\n\n\n\nAssignment 1\nAssign_1\n\n\nAssignment 2\nAssign_2\n\n\nAssignment 3\nAssign_3\n\n\nAssignment 4\nAssign_4\n\n\nMid Examination\nMid Exam"
-  },
-  {
-    "objectID": "Past_exam.html#end-examination-papers",
-    "href": "Past_exam.html#end-examination-papers",
-    "title": "MC3020",
-    "section": "End examination papers",
-    "text": "End examination papers\n\n\n\nYear\nPast exam paper\n\n\n\n\n2023\nMC3020_2023\n\n\n2022\nMC3020_2022\n\n\n2020\nMC3020_2021\n\n\n2019\nMC3020_2019"
+    "section": "Model Answers",
+    "text": "Model Answers\n\nTutorial 01_Model Answers \nTutorial 02_Model Answers \nTutorial 03_Model Answers\nTutorial 04 Model Answers\nTutorial 05 Model Answers\nTutorial 06 Model Answers"
   }
 ]
